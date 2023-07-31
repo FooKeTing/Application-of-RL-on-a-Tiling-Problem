@@ -1,7 +1,7 @@
 # User Manual
 The figure below provides instructions outlining the pre-execution steps required for the Python files, namely _env_playerCode.py_ and _trainPlayerCode.py_. Users can arrive at a conclusion by following these instructions and analyzing the generated output files. It should be noted that the process indicated by the green dotted box requires manual execution.
 
-![User Manual Flowchart](https://github.com/FooKeTing/Application-of-RL-on-a-Tiling-Problem/assets/134204900/ad146221-a4ed-4318-b10e-8fbd900f6ed0)
+![User Manual Flowchart](https://github.com/FooKeTing/Application-of-RL-on-a-Tiling-Problem/assets/134204900/4e525ceb-77ec-4228-b39a-22debfb6b14e)
 
 The information regarding the input and output files is documented below. These tables provide valuable insights into the contents and specifications of the files, allowing users to gain a better understanding.
 
@@ -14,7 +14,7 @@ The information regarding the input and output files is documented below. These 
 
 The figure below shows how the developed reinforcement learning framework works on training an agent to fill up all empty grids.
 
-![Main Program Flowchart](https://github.com/FooKeTing/Application-of-RL-on-a-Tiling-Problem/assets/134204900/6620a41f-e9b6-404e-85e9-24635fa8db12)
+![Main Program Flowchart](https://github.com/FooKeTing/Application-of-RL-on-a-Tiling-Problem/assets/134204900/9d0167bf-a86f-4ddc-ace0-9b55e7fbfefd)
 
 The framework developed for this project comprises a reinforcement learning algorithm and two classes: _playernum_ and _squarestate_. The derived class _squarestate_ inherits from both the abstract class_ gym.Env_ and the base class _playernum_.
 
