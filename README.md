@@ -1,20 +1,20 @@
 # User Manual
 The figure below provides instructions outlining the pre-execution steps required for the Python files, namely _env_playerCode.py_ and _trainPlayerCode.py_. Users can arrive at a conclusion by following these instructions and analyzing the generated output files. It should be noted that the process indicated by the green dotted box requires manual execution.
 
-![User Manual Flowchart](https://github.com/FooKeTing/Application-of-RL-on-a-Tiling-Problem/assets/134204900/4e525ceb-77ec-4228-b39a-22debfb6b14e)
+![User Manual Flowchart](https://github.com/FooKeTing/Application-of-RL-on-a-Tiling-Problem/assets/134204900/15fb208c-d1d8-4190-a9b8-a236811b57ac)
 
 The information regarding the input and output files is documented below. These tables provide valuable insights into the contents and specifications of the files, allowing users to gain a better understanding.
 
-![image](https://github.com/FooKeTing/Application-of-RL-on-a-Tiling-Problem/assets/134204900/8071491e-07c9-4e44-80c5-6909bf02f844)
+![image](https://github.com/FooKeTing/Application-of-RL-on-a-Tiling-Problem/assets/134204900/c0add9df-6344-4af7-9f57-fa3496cee0fa)
 
-![image](https://github.com/FooKeTing/Application-of-RL-on-a-Tiling-Problem/assets/134204900/eb67afb8-851c-4888-9a32-a7f18299e579)
+![image](https://github.com/FooKeTing/Application-of-RL-on-a-Tiling-Problem/assets/134204900/8be0028c-4dac-4b04-97e8-532dfc4d8045)
 
 
 **Main Flow Chart for Developed Framework**
 
 The figure below shows how the developed reinforcement learning framework works on training an agent to fill up all empty grids.
 
-![Main Program Flowchart](https://github.com/FooKeTing/Application-of-RL-on-a-Tiling-Problem/assets/134204900/9d0167bf-a86f-4ddc-ace0-9b55e7fbfefd)
+![Main Program Flowchart](https://github.com/FooKeTing/Application-of-RL-on-a-Tiling-Problem/assets/134204900/4fa9e254-4b95-4b81-b4fd-0587b0a1f2bc)
 
 The framework developed for this project comprises a reinforcement learning algorithm and two classes: _playernum_ and _squarestate_. The derived class _squarestate_ inherits from both the abstract class_ gym.Env_ and the base class _playernum_.
 
